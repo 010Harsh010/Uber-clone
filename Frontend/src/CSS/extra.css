@@ -1,0 +1,13 @@
+.chatting::-webkit-scrollbar {
+    display: none !important; /* Hides the scrollbar in Webkit-based browsers */
+  }
+  
+  .chatting {
+    -ms-overflow-style: none !important; /* Hides the scrollbar for IE and Edge */
+    scrollbar-width: none !important; /* Hides the scrollbar for Firefox */
+  }
+
+/* .done{
+  background-color: #4CAF50;
+  transition: ;
+} */
